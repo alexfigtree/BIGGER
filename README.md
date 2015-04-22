@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# BIGGER
+BIGGER is a game created by Alex Higuera, based on the original 2048 game created by Gabriele Cirulli’s 2048 game (SEE BELOW).  It was made with young children in mind, to help them learn the conceptual differences between big and small.
+
 # 2048
 A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
 
@@ -31,7 +33,3 @@ You can find the same information in the [contributing guide.](https://github.co
 
 ## Donations
 I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. Thank you very much!
-=======
-# BIGGER
- BIGGER is game is based on Gabriele Cirulli's 2048.  It was made with young children in mind, to help them learn the conceptual differences between big and small.  No math necessary!
->>>>>>> 938a987cfbefa57e0fd3727b16744640a59b564b
